@@ -1,0 +1,33 @@
+mode = "dark"
+
+accent               = "#6E94B2"
+cursor               = "#CDCDCD"
+foreground           = "#CDCDCD"
+background           = "#141415"
+selection_foreground = "#CDCDCD"
+selection_background = "#333738"
+
+# ---- ANSI 16 ----
+color0  = "#252530"
+color8  = "#606079"
+
+color1  = "#C48282"
+color9  = "#D8647E"
+
+color2  = "#7FA563"
+color10 = "#B4D4CF"
+
+color3  = "#E0A363"
+color11 = "#E8B589"
+
+color4  = "#6E94B2"
+color12 = "#7E98E8"
+
+color5  = "#9595CB"
+color13 = "#BB9DBD"
+
+color6  = "#90A0B5"
+color14 = "#9BB4BC"
+
+color7  = "#CDCDCD"
+color15 = "#E4E4E6"
