@@ -1,4 +1,4 @@
-# Vague — an Omarchy theme
+# Vague: an Omarchy theme
 
 ![preview](./desktop.png)
 
