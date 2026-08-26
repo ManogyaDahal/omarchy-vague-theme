@@ -1,4 +1,5 @@
--- Omarchy's `vague` theme — Neovim integration.
+-- Omarchy's `vague` theme — Neovim integration. 
+-- Install and apply vague colorscheme in nvim
 vim.pack.add({ 'https://github.com/vague-theme/vague.nvim' })
 require('vague').setup({
   transparent = false,
