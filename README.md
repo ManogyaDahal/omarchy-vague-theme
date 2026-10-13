@@ -1,6 +1,6 @@
 # Vague: an Omarchy theme
 
-![preview](./desktop.png)
+![preview](./preview.png)
 
 Inspired by [vague.nvim](https://github.com/vague-theme/vague.nvim), using the same color palette. Plain, muted, and easy on the eyes.
 
